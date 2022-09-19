@@ -1,4 +1,5 @@
-# My Data Science Portfolio
+# Data Science Portfolio
+####            Akshay Joshi
 
 Welcome to my Data Science Portfolio where you can find notes to the related topics and Projects to work upon.
 
