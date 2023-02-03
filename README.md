@@ -30,6 +30,16 @@ Project Progress Dashboard
 
 
 
+### 3 . [Concrete Mastersheet]
+This dashboard was as savior for our project. Power BI was not popular in construction industry back in 2019 but since i have already worked upon a few dashboard for my project i have realized that Power BI has made it very simple.
+The purpose of this dashboard was to track the concrete production on daily basis that too we could filter itemwise/componentwise.
+Here is the Concrete Mastersheet:
+
+Concrete Mastersheet
+![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Concrete%20Mastersheet/Concrete%20Mastersheet.jpeg) "Concrete Mastersheet"
+
+
+
 
 
 
