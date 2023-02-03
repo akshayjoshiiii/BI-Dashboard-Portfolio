@@ -75,19 +75,3 @@ Unicorn Club Dashboard
 ![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Restaurant%20Rating/Restaurant%20Rating.jpeg "Restaurant Rating Dashboard")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Here you can also find the notes to the related topics. The link will be directed to the Google Drive. You can ask for access to get the notes.
-
-## [Notes/Study Material](https://drive.google.com/drive/folders/1sfkGZk9EaSKAw-gZc7oFvr9qcyzkF-mI?usp=sharing)
-The notes are based on various learning sources such as CloudyML, AppliedAI etc.
