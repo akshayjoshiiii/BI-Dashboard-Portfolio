@@ -1,9 +1,9 @@
 # Data Science Portfolio
 ##### Akshay Joshi
 
-Welcome to my Data Science Portfolio, I am happy to present my basic projects here.
+Below given are a few Projects on which i have worked during the learning phase of my Power BI.
 
-### 1. [Adventure Works Project](https://github.com/akshayjoshiiii/Data-Analytics-Projects/tree/main/Adventure%20Works%20Report/Dataset) 
+### 1. [Adventure Works Project]
 This project is the part of the periodic challange provided by the Maven Analytics.
 
 Here are the Slides of the report for Adventure Works Cycles:
@@ -16,6 +16,18 @@ Slide 2: Product Details
 
 Slide 3: Customer Details
 ![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/main/Adventure%20Works%20Report/3.png "Customer Details")
+
+
+
+### 2 . [Construction Progress Dashboard]
+This dashboard was developed to monitor the progress of construction projects. It came handy for submitting to client. If same client is having multiple projects then by giving simply one slicer to toggle between the projects.
+
+Here are the Slides of the progress dashboard:
+
+Progress Dashboard
+![alt text](Construction Progress Dashboard/Construction Progress Tracker.jpeg "Executive Summary")
+
+
 
 
 
