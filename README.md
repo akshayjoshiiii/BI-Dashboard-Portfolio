@@ -22,10 +22,10 @@ Slide 3: Customer Details
 ### 2 . [Construction Progress Dashboard]
 This dashboard was developed to monitor the progress of construction projects. It came handy for submitting to client. If same client is having multiple projects then by giving simply one slicer to toggle between the projects.
 
-Here are the Slides of the progress dashboard:
+Here is the Project Progress Dashboard:
 
-Progress Dashboard
-![alt text](Construction Progress Dashboard/Construction Progress Tracker.jpeg "Executive Summary")
+Project Progress Dashboard
+![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Construction%20Progress%20Dashboard/Construction%20Progress%20Tracker.jpeg) "Project Progress Dashboard")
 
 
 
