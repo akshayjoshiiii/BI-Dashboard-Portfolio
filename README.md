@@ -25,7 +25,7 @@ This dashboard was developed to monitor the progress of construction projects. I
 Here is the Project Progress Dashboard:
 
 Project Progress Dashboard
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Construction%20Progress%20Dashboard/Construction%20Progress%20Tracker.jpeg) "Project Progress Dashboard")
+![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Construction%20Progress%20Dashboard/Construction%20Progress%20Tracker.jpeg "Project Progress Dashboard")
 
 
 
@@ -36,7 +36,7 @@ The purpose of this dashboard was to track the concrete production on daily basi
 Here is the Concrete Mastersheet:
 
 Concrete Mastersheet
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Concrete%20Mastersheet/Concrete%20Mastersheet.jpeg) "Concrete Mastersheet"
+![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Concrete%20Mastersheet/Concrete%20Mastersheet.jpeg "Concrete Mastersheet") 
 
 
 
