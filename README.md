@@ -25,7 +25,7 @@ This dashboard was developed to monitor the progress of construction projects. I
 Here is the Project Progress Dashboard:
 
 Project Progress Dashboard
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Construction%20Progress%20Dashboard/Construction%20Progress%20Tracker.jpeg "Project Progress Dashboard")
+![alt text](./Construction%20Progress%20Dashboard/Construction%20Progress%20Tracker.jpeg "Project Progress Dashboard")
 
 
 
@@ -36,7 +36,7 @@ The purpose of this dashboard was to track the concrete production on daily basi
 Here is the Concrete Mastersheet:
 
 Concrete Mastersheet
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Concrete%20Mastersheet/Concrete%20Mastersheet.jpeg "Concrete Mastersheet") 
+![alt text](./Concrete%20Mastersheet/Concrete%20Mastersheet.jpeg "Concrete Mastersheet") 
 
 
 
@@ -45,7 +45,7 @@ The Progress tracker helps in tracking the progress of Highway and Structure sec
 Here is the Progress Tracker:
 
 Progress Tracker
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Construction%20Progress%20Tracker/Construction%20Progress%20Tracker.jpeg "Progress Tracker") 
+![alt text](./Construction%20Progress%20Tracker/Construction%20Progress%20Tracker.jpeg "Progress Tracker") 
 
 
 
@@ -54,7 +54,7 @@ The EVM Dashboard helps in tracking the progress of project based on the Cost Ex
 Here is the Earned Value Management Dashboard:
 
 Earned Value Management Dashboard
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Earned%20Value%20Analysis/Earned%20Value%20Analysis.jpeg "Earned Value Management Dashboard")
+![alt text](./Earned%20Value%20Analysis/Earned%20Value%20Analysis.jpeg "Earned Value Management Dashboard")
 
 
 
@@ -64,7 +64,7 @@ This project is the part of the periodic challange provided by the Maven Analyti
 Here is the Unicorn Club Dashboard:
 
 Unicorn Club Dashboard
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Unicorn%20Club/Unicorn%20Club.jpeg "Unicorn Club Dashboard")
+![alt text](./Unicorn%20Club/Unicorn%20Club.jpeg "Unicorn Club Dashboard")
 
 
 ### 7 . [Restaurant Rating Dashboard] [Assignment]
@@ -72,6 +72,6 @@ This project is the part of the periodic challange provided by the Maven Analyti
 Here is the Restaurant Rating Dashboard:
 
 Unicorn Club Dashboard
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/48e4404e037a82c207b3d07518e0164337298619/Restaurant%20Rating/Restaurant%20Rating.jpeg "Restaurant Rating Dashboard")
+![alt text](./Restaurant%20Rating/Restaurant%20Rating.jpeg "Restaurant Rating Dashboard")
 
 
