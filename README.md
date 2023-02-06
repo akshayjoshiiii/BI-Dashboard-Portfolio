@@ -1,4 +1,3 @@
-# BI Dashboard Portfolio 
 ##### Author: Akshay Joshi
 
 Below given are a few Projects on which i have worked during the learning phase of my Power BI.
