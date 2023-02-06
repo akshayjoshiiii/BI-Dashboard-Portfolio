@@ -9,13 +9,13 @@ This project is the part of the periodic challange provided by the Maven Analyti
 Here are the Slides of the report for Adventure Works Cycles:
 
 Slide 1: Executive Summary 
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/main/Adventure%20Works%20Report/1.png "Executive Summary")
+![alt text](./Adventure%20Works%20Report/1.png "Executive Summary")
 
 Slide 2: Product Details
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/main/Adventure%20Works%20Report/2.png "Product Details")
+![alt text](./Adventure%20Works%20Report/2.png "Product Details")
 
 Slide 3: Customer Details
-![alt text](https://github.com/akshayjoshiiii/Data-Analytics-Projects/blob/main/Adventure%20Works%20Report/3.png "Customer Details")
+![alt text](./Adventure%20Works%20Report/3.png "Customer Details")
 
 
 
